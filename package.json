@@ -1,7 +1,7 @@
 {
   "name": "@aggregate-intellect/firepad",
   "description": "Collaborative text editing powered by Firebase",
-  "version": "1.5.6",
+  "version": "1.5.6-1",
   "private": false,
   "author": "Firebase (https://firebase.google.com/)",
   "contributors": [
